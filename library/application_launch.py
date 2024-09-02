@@ -1,0 +1,1 @@
+spotify_app_apk = '/path/to/app.apk'
