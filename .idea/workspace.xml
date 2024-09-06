@@ -6,6 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="0c5c71b0-c621-41fc-ab46-d560b2b12cb3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.Browser_windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.Browser_windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/FindYoutubeInGoogle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/PyWhatKit_DB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/Trending_news.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/Trending_news_HeadlessMode.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/exports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/news.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/test_imports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation/whatsapp_automating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Int Q's/0.prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Int Q's/0.prac.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,111 +50,102 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sanju\PycharmProjects\SELENIUM\Automation_pratice\project_website_automation" />
       <recent name="C:\Users\sanju\PycharmProjects\SELENIUM" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prac">
-    <configuration name="exports" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SELENIUM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_practices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_practices/exports.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SELENIUM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTest With Appium Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyTest With Appium Python/prac.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for prac.TestClass" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_dropdown.TestMultiDropDown.test_multidropdown">
+    <configuration name="pytest for test_dropdown.TestMultiDropDown" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTest With Appium Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_practice/project_website_automation/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;prac.TestClass&quot;" />
+      <option name="_new_target" value="&quot;test_dropdown.TestMultiDropDown&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for prac.TestClassDemoInstance" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_dropdown.TestMultiDropDown.test_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyTest With Appium Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_practice/project_website_automation/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;prac.TestClassDemoInstance&quot;" />
+      <option name="_new_target" value="&quot;test_dropdown.TestMultiDropDown.test_data&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_imports.test_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_dropdown.TestMultiDropDown.test_multidropdown" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_practice/project_website_automation/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_imports.test_1&quot;" />
+      <option name="_new_target" value="&quot;test_dropdown.TestMultiDropDown.test_multidropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_dropdown.test_dropdown" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SELENIUM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_practice/project_website_automation/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dropdown.test_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_dropdown.test_multidropdown" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SELENIUM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_practice/project_website_automation/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dropdown.test_multidropdown&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prac" />
-        <item itemvalue="Python tests.pytest for prac.TestClassDemoInstance" />
-        <item itemvalue="Python tests.pytest for prac.TestClass" />
-        <item itemvalue="Python.exports" />
-        <item itemvalue="Python tests.pytest for test_imports.test_1" />
+        <item itemvalue="Python tests.pytest for test_dropdown.TestMultiDropDown.test_multidropdown" />
+        <item itemvalue="Python tests.pytest for test_dropdown.TestMultiDropDown" />
+        <item itemvalue="Python tests.pytest for test_dropdown.TestMultiDropDown.test_data" />
+        <item itemvalue="Python tests.pytest for test_dropdown.test_multidropdown" />
+        <item itemvalue="Python tests.pytest for test_dropdown.test_dropdown" />
       </list>
     </recent_temporary>
   </component>
