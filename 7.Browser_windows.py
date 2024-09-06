@@ -43,6 +43,7 @@ Wind_ID = driver.window_handles
 # for wd in Wind_ID:
 #     driver.switch_to.window(wd)
 #     print(driver.title)
+
 #     OUTPUT
 # Human Resources Management Software | OrangeHRM
 # Get to Know Us | Innovating HR Solutions | OrangeHRM
@@ -54,7 +55,6 @@ for wd in Wind_ID:
     driver.switch_to.window(wd)
     if driver.title == 'Human Resources Management Software | OrangeHRM':
         driver.close()
-
 
 
 driver.close()
